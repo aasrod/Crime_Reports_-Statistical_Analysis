@@ -1,4 +1,4 @@
-# Crime_Reports_Statistical_Analysis
+# Crime Reports Statistical Analysis
 Dataset: https://data.louisvilleky.gov/dataset/crime-reports <br>
 In this project, after cleaning data, I performed statistical analysis on crime reports from 2015 to 2019 recorded in The Louisville Metro Police Department using Seaborn and Matplotlib packages.<br>
 By analyzing the YEAR_occ column of the data, I realized the fact that some crimes were reported after several years which I have no idea why!<br>
