@@ -5,12 +5,12 @@ By analyzing the YEAR_occ column of the data, I realized the fact that some crim
 Also, I got a vivid view of the volume of crimes occurring in each location. Below, you can see its plot.<br>
 
 <div align=center>
-  <img src="./assets/1.PNG" width="600" align="center"/>
+  <img src="./assets/1.PNG" width="600"/>
 </div>
 <br>
 
 In the plot below, you can see what crimes are more common.<br>
 
 <div align=center>
-  <img src="./assets/2.2.PNG" width="600" align="center"/>
+  <img src="./assets/2.2.PNG" width="600"/>
 </div>
